@@ -50,7 +50,7 @@ public class ImageLoader {
     }
 
     // default image show in list (Before online image download)
-    final int stub_id= R.mipmap.ic_launcher;
+    final int stub_id= R.drawable.tum_image;
 
     public void DisplayImage(String url, ImageView imageView)
     {
