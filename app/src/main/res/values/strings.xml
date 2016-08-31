@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrFeed</string>
+    <string name="loading">Fetching images...</string>
+    <string name="check_network_connection">Please check data connectivity!</string>
+</resources>
