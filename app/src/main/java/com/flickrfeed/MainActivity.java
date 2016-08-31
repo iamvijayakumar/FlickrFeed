@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
                     mProgressLayout.setVisibility(View.GONE);
                 }
             }else{
+                mProgressLayout.setVisibility(View.GONE);
                 Toast.makeText(MainActivity.this,getResources().getString(R.string.check_network_connection),Toast.LENGTH_SHORT).show();
             }
         }
